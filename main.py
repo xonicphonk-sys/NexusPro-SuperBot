@@ -17,9 +17,9 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 from keep_alive import keep_alive
 
 # --- ⚙️ CONFIGURATION ---
-BOT_TOKEN = "এখানে_আপনার_বটের_টোকেন_দিন"
+BOT_TOKEN = "8965741278:AAGP596JO1bxSt3xDZJbMQVIuogc6MejJI8"
 SUPPORT_ID = "@Grp_Sale_999"
-ADMIN_ID = 123456789  # ⚠️ এখানে আপনার নিজের টেলিগ্রাম আইডি (সংখ্যা) বসান
+ADMIN_ID = 6836865426  # ⚠️ এখানে আপনার নিজের টেলিগ্রাম আইডি (সংখ্যা) বসান
 
 ADMIN_USERNAME = "saddamadmin"
 ADMIN_PASSWORD = "saddamadmin1234"
